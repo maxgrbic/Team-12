@@ -1,5 +1,5 @@
 # Team-12
 GitHub Practice
 MSIS
-simran
+smatharu7
 Brijesh
